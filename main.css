@@ -1,0 +1,30 @@
+#main{
+    text-align: center;
+    background-color: lightgrey;
+    padding: 30px;
+    margin: 30px;
+    font-family: arial;
+  }
+  h2{
+    font-size: 3rem;
+    margin-bottom: 0;
+  }
+  #img-div{
+    background-color: white;
+    display: block;
+    padding: 30px 400px 20px 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+  }
+  #image{
+    max-width: 100%;
+    display: block;
+  }
+  a{
+    text-decoration: none;
+  }
+  a:visited {
+    color: blue;
+  }
